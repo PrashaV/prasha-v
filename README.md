@@ -1,4 +1,3 @@
 # PrashaV
-header
 
-<img src="./header.svg" alt="header" width="100%"/>
+<img src="https://raw.githubusercontent.com/PrashaV/PrashaV/main/header.svg" alt="header" width="100%"/>
