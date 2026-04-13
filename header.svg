@@ -1,0 +1,22 @@
+<svg width="100%" viewBox="0 0 680 200" role="img" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="stripes" patternUnits="userSpaceOnUse" width="28" height="28" patternTransform="rotate(35)">
+      <rect width="28" height="28" fill="#fce4ec"/>
+      <rect width="14" height="28" fill="#fff0f5"/>
+    </pattern>
+    <clipPath id="banner-clip">
+      <rect width="680" height="200" rx="0"/>
+    </clipPath>
+  </defs>
+  <rect width="680" height="200" fill="url(#stripes)" clip-path="url(#banner-clip)"/>
+  <circle cx="58" cy="48" r="32" fill="#f8bbd0" opacity="0.45"/>
+  <circle cx="620" cy="158" r="44" fill="#f48fb1" opacity="0.3"/>
+  <circle cx="640" cy="40" r="20" fill="#fce4ec" opacity="0.6"/>
+  <circle cx="30" cy="170" r="26" fill="#f48fb1" opacity="0.25"/>
+  <circle cx="160" cy="22" r="4" fill="#f48fb1" opacity="0.5"/>
+  <circle cx="520" cy="185" r="5" fill="#ec407a" opacity="0.35"/>
+  <circle cx="430" cy="15" r="3" fill="#f06292" opacity="0.4"/>
+  <text x="340" y="88" font-family="Georgia, serif" font-size="38" font-weight="400" fill="#880e4f" text-anchor="middle" letter-spacing="2">Hello :)</text>
+  <text x="340" y="140" font-family="Georgia, serif" font-size="30" font-weight="400" fill="#ad1457" text-anchor="middle" letter-spacing="3">i'm prasha</text>
+  <line x1="240" y1="154" x2="440" y2="154" stroke="#f48fb1" stroke-width="0.8" opacity="0.7"/>
+</svg>
